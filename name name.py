@@ -1,0 +1,11 @@
+name=input(" arupa das ")
+print(name[1])
+print(name[-2])
+print(name[1:-1])
+print(len(name))
+print("{2+2}+[10%3}")
+print(name.title())
+print(name.strip())
+print(name.find("arupa")
+print(name.replace("A","a"))
+      

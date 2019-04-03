@@ -1,0 +1,6 @@
+print ("Twinkel,twinkel,little star,")
+print("\t How are wounder what you are!")
+print("\t\t Up above the world so high,")
+print("\t\t Like a diamond in the sky.")
+print("Twinkel,twinkel,little star,")
+print("\t How are wounder what you are!")
